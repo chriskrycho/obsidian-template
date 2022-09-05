@@ -8,4 +8,8 @@ To use this:
 2. Open it with Obsidian.
 3. Add notes to it. You can add them directly or export them from another app as Markdown files.
 
+Bonus: to get *exactly* the same presentation I have, download and install [the SF fonts][fonts] from Apple. My config uses **SF Pro Rounded**, **SF Pro Text**, and **SF Mono**.
+
+[fonts]: https://developer.apple.com/fonts/
+
 That's it!
