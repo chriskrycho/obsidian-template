@@ -1,0 +1,5 @@
+# Don't include the SQLite database
+.obsidian/workspace
+
+# macOS :eyeroll:
+.DS_Store

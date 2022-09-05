@@ -1,0 +1,43 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "source",
+  "tabSize": 4,
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "app:go-back",
+    "app:go-forward",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "note-composer:split-file",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "editor:insert-link"
+  ],
+  "useTab": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityPluginSortOrder": "release",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false
+}

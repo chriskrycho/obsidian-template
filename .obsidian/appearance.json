@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "monospaceFontFamily": "SF Mono",
+  "textFontFamily": "SF Pro Text",
+  "interfaceFontFamily": "SF Pro Rounded"
+}
