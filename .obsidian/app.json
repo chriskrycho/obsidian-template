@@ -1,4 +1,5 @@
 {
+  "accentColor": "#0d599c",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "foldHeading": true,
@@ -39,5 +40,6 @@
   },
   "communityPluginSortOrder": "release",
   "newLinkFormat": "absolute",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "communityThemeSortOrder": "download"
 }

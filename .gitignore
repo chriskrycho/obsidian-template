@@ -1,5 +1,6 @@
-# Don't include the SQLite database
+# Don't include any workspace-specific config
 .obsidian/workspace
+.obsidian/workspace*.json
 
 # macOS :eyeroll:
 .DS_Store

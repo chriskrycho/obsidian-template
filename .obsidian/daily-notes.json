@@ -1,1 +1,5 @@
-{}
+{
+  "format": "YYYY.MM.DD",
+  "folder": "Work/Tracking/",
+  "template": "Work/Tracking/Templates/<1 - day>"
+}
